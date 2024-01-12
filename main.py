@@ -7,4 +7,6 @@ data = import_csv_to_df("data.csv")
 # Printing the data
 data.head()
 
-# lets create a conflit
+# Shape of the data
+row, col = data.shape
+print("There are {} rows and {} columns in the data.".format(row, col))
