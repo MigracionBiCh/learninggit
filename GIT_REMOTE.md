@@ -44,7 +44,3 @@ A continuación se muestran los pasos para utilizar Git con VSCode para gestiona
 - **Tirar Cambios:** Tira regularmente cambios del repositorio remoto para mantenerte actualizado.
 - **Resolver Conflictos:** Aprende a resolver conflictos de fusión que puedan surgir durante las extracciones o fusiones.
 - **Extensiones de Git:** Explora extensiones de VSCode para Git que pueden mejorar la experiencia, como GitLens.
-
-### Práctica y Recursos
-- **Práctica Práctica:** Anima a los miembros del equipo a practicar configurando un repositorio de prueba.
-- **Documentación y Tutoriales:** Proporciona enlaces a la documentación de Git y VSCode para un aprendizaje más profundo.
