@@ -1,4 +1,4 @@
-Claro, aquí tienes la lección traducida al español:
+A continuación se muestran los pasos para utilizar Git con VSCode para gestionar y colaborar en código en un repositorio remoto:
 
 ### 1. Configuración del Entorno
 - **Instalar Git:** Asegúrate de que Git esté instalado en la máquina de cada miembro del equipo. [Descarga Git aquí](https://git-scm.com/downloads).
@@ -48,5 +48,3 @@ Claro, aquí tienes la lección traducida al español:
 ### Práctica y Recursos
 - **Práctica Práctica:** Anima a los miembros del equipo a practicar configurando un repositorio de prueba.
 - **Documentación y Tutoriales:** Proporciona enlaces a la documentación de Git y VSCode para un aprendizaje más profundo.
-
-Siguiendo estos pasos y fomentando la práctica, tu equipo se volverá competente en el uso de Git con VSCode para gestionar y colaborar en código en un repositorio remoto.
